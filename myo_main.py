@@ -1,5 +1,5 @@
 '''
-Affective Computing with AMIGOS Dataset
+Subject Type Classifier of Suture Training 
 '''
 
 from argparse import ArgumentParser
