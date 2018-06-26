@@ -1,5 +1,5 @@
 '''
-Subject Type Classifier of Suture Training 
+   Subject Type Classifier of Suture Training 
 '''
 
 from argparse import ArgumentParser
