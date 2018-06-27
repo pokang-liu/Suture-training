@@ -32,7 +32,7 @@ def main():
     parser.add_argument('--nor', type=str, choices=['one_one', 'mean', 'zero_one'],
                         default='zero_one', help='choose type of classifier')
     parser.add_argument('--deldefault', type=str, choices=['Y','N'],
-                        default='N', help='remove default')
+                        default='N', help='remove default(class 1)')
     parser.add_argument('--result', type=str,
         default='result', help='name of result file')
     args = parser.parse_args()
